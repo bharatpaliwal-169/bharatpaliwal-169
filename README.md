@@ -7,16 +7,22 @@
 - 📫 Reach me, mail me on ***paliwalbdevop@gmail.com***
 
 ### Languages I Love to code in...
-```
+```python
 print("Python")
-
-cout << "C++" << endl;
-
-console.log("JavaScript");
-
-<h1>HTML AND CSS</h1>
-
 ```
+
+```c++
+cout << "C++" << endl;
+```
+
+```javascript
+console.log("JavaScript");
+```
+```html
+<h1>HTML AND CSS</h1>
+```
+
+
 <!---
 bharatpaliwal-169/bharatpaliwal-169 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
