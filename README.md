@@ -1,12 +1,18 @@
-[![views](http://hits.dwyl.com/bharatpaliwal-169/bharatpaliwal-169.svg)](http://hits.dwyl.com/bharatpaliwal-169/bharatpaliwal-169)
+# 👋 Hi, I’m Bharat Paliwal
+### Connect with Me 
 
-
-- 👋 Hi, I’m @bharatpaliwal-169
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front-end-development,django and C++
-- 💞️ I’m open to collaborate on Web development projects.
-- 📫 Reach me, mail me on paliwalbdevop@gmail.com
+- 💞️ I’m open to collaborate on ***Web development*** projects.
+- 📫 Reach me, mail me on ***paliwalbdevop@gmail.com***
 
+```
+print("Hello World")
+
+cout << "Hello World" << endl;
+
+
+```
 <!---
 bharatpaliwal-169/bharatpaliwal-169 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
