@@ -14,7 +14,9 @@ You can click the Preview link to take a look at your changes.
 <!--[![Bharat Paliwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatpaliwal-169)](https://github.com/bharatpaliwal-169/github-readme-stats)-->
 ![Bharat Paliwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatpaliwal-169&show_icons=true&theme=dark)
 
-
+<a href="https://github.com/bharatpaliwal-169">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatpaliwal-169&theme=dark" />
+</a>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
