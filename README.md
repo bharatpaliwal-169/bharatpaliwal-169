@@ -41,8 +41,10 @@
 
 #### Github Stats
 <!--[![Bharat Paliwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatpaliwal-169)](https://github.com/bharatpaliwal-169/github-readme-stats)-->
-![Bharat Paliwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatpaliwal-169&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatpaliwal-169&hide=scss&theme=tokyonight&langs_count=7&layout=compact)](https://github.com/bharatpaliwal-169/github-readme-stats)
-
+![Bharat Paliwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatpaliwal-169&show_icons=true&theme=tokyonight) 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatpaliwal-169&hide=scss&theme=tokyonight&langs_count=7&layout=compact)](https://github.com/bharatpaliwal-169/github-readme-stats)
+-->
 </details>
 
 
