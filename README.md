@@ -47,18 +47,27 @@
 
 <details>
 <summary>
-  Insights 
+  <h3> Know more about my repos. </h3> 
 </summary>
 
 <br >
 
 #### Github Stats
-<!--[![Bharat Paliwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatpaliwal-169)](https://github.com/bharatpaliwal-169/github-readme-stats)-->
-![Bharat Paliwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatpaliwal-169&show_icons=true&theme=tokyonight) 
 
+  ![Bharat Paliwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharatpaliwal-169&show_icons=true&theme=tokyonight) 
+
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatpaliwal-169&count_private=true&theme=tokyonight" alt="contribution-stats" />
+  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharatpaliwal-169&hide=scss&theme=tokyonight&langs_count=7&layout=compact)](https://github.com/bharatpaliwal-169/github-readme-stats)
-</details>
 
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=bharatpaliwal-169&theme=dracula)
+<!-- these components are bootstraped from here https://github.com/anuraghazra/github-readme-stats -->
+
+
+
+</details>
 
 <div align="center">
 
