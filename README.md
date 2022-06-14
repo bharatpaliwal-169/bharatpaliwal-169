@@ -1,6 +1,7 @@
 # Jai Jinendra,
 
-# I’m Bharat Paliwal,21 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi">
+# I’m Bharat Paliwal,21
+<!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi"> -->
 
 
 - 💞️ I’m currently working at ***TechM Comviva***.
@@ -64,6 +65,7 @@
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=bharatpaliwal-169&theme=dracula)
 <!-- these components are bootstraped from here https://github.com/anuraghazra/github-readme-stats -->
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatpaliwal-169&label=Profile%20views&color=0e75b6&style=flat" alt="bharat" /> </p>
 
 
 
