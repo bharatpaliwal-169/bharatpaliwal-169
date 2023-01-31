@@ -71,6 +71,12 @@
 
 </details>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bharatpaliwal-169/count.svg" />
+</p>
+
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories !!
