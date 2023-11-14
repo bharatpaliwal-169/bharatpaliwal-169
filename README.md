@@ -85,3 +85,6 @@
   
 ## Thanks For viewing :)
 </div>
+<p>
+  <a href="https://buymeacoffee.com/paliwalBapps">BUY ME A COFFEE</>
+</p>
