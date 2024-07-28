@@ -4,9 +4,9 @@
 <!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi"> -->
 
 
-- 💞️ I’m currently working at ***TechMahindra Comviva Technologies LTD***.
-- 📫 Please reach out me on ***paliwalbharat2301@gmail.com***.
-- ⚡ Always learning and open to all Software Engineering opportunity.
+- 💞️ I’m currently working as a ***Senior Software Engineer*** at ***TechMahindra Comviva Technologies Pvt. LTD***.
+- 📫 Please reach out to me on ***paliwalbharat2301@gmail.com***.
+- ⚡ Always learning and exploring innovative software concepts.
 
 ## My Socials: 
 [![Twitter Badge](https://img.shields.io/badge/-@BharatPaliwal23-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BharatPaliwal23)](https://twitter.com/BharatPaliwal23) [![Mail Badge](https://img.shields.io/badge/-Bharat-1877F2?style=flat&labelColor=1877F2&logo=facebook&logoColor=white)](https://www.facebook.com/bharat.paliwal.3958914/) [![Linkedin Badge](https://img.shields.io/badge/-BharatPaliwal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharat-paliwal-ab7169179/) [![Mail Badge](https://img.shields.io/badge/-@_bharat_231-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_bharat_231/) [![Mail Badge](https://img.shields.io/badge/-paliwalbharat-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:paliwalbharat2301@gmail.com)
