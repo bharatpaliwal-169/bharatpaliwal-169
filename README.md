@@ -1,8 +1,7 @@
 # Jai Jinendra,
 
-# I’m Bharat Paliwal,23
+# I’m Bharat Paliwal,24
 <!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt="hi"> -->
-
 
 - 💞️ I’m currently working as a ***Senior Software Engineer*** at ***TechMahindra Comviva Technologies Pvt. LTD***.
 - 📫 Please reach out to me on ***paliwalbharat2301@gmail.com***.
